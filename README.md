@@ -1,3 +1,3 @@
 # Objetos
 
-# Algunos de los prácticos de la materia POO Unicen
+Resolución de los ejercicios prácticos de la materia POO de la Unicen
